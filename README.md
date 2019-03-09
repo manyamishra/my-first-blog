@@ -1,8 +1,8 @@
 # MY FIRST BLOG
 
-THIS REPOSITORY IS DEDICATED TO BLOG BUILDING
+THIS REPOSITORY IS DEDICATED TO BLOG BUILDING,
 
-YES RIGHT, NOW YOU HAVE YOUR OWN BLOG!
+YES RIGHT, NOW YOU'LL HAVE YOUR OWN BLOG!
 
 This blog is designed and developed with the help of https://tutorial.djangogirls.org/en/ using Python, HTML and CSS.
 
